@@ -10,7 +10,7 @@ script:
 notifications:
   slack: 'testing-bot:nDUQ4XTKW6m9VrTW89ByLxtA#general'
 deploy:
-  app: pumpkin-tart-71750
+  app: immense-chamber-14538
   provider: heroku
   api_key:
     secure: bbda3a29-9d67-4f55-bddf-d3e8bcc99247
